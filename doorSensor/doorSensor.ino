@@ -2,8 +2,8 @@
  *  - Ahmad Ansori Palembani (191420078)
  *  - Muhammad Fharid Akbar  (191420072)
  *  - Panji Darmawan         (191420088)
- *  - Ramadani		         (191420017)
- *  - M Ridho Fadillah		 (191420144)
+ *  - Ramadani		        (191420017)
+ *  - M Ridho Fadillah		(191420144)
  */
 
 
